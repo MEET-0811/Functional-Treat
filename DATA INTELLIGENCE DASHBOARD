@@ -1,0 +1,64 @@
+
+📘  DATA INTELLIGENCE DASHBOARD – README
+📊 Data Intelligence Dashboard
+📌 Project Description
+
+This final project is designed to build a complete data analysis and reporting solution using Excel / Google Sheets.
+The project analyzes customer transaction data to generate insights, create dashboards, and visualize KPIs.
+
+The goal is to combine formulas, analysis tools, pivot tables, and charts to create a Data Intelligence Dashboard.
+
+📂 Sheets Included
+Project Instructions
+Contains project requirements.
+Final Project Dataset
+Raw data of customer transactions.
+Analysis Sheet
+Used for formulas and calculations.
+Pivot Tables
+Used to summarize data.
+Charts / Dashboard
+Used for visualization.
+🧠 Topics Covered
+Date Functions (TODAY, NOW, DATEDIF, EOMONTH)
+FILTER Function
+Conditional Formatting with icons/arrows
+INDEX + MATCH formulas
+COUNTIFS / SUMIFS / AVERAGEIFS
+What-If Analysis / Goal Seek
+Linear Regression / Data Analysis
+Pivot Tables
+Charts (Bar, Line, Pie)
+Dashboard Design
+Text Functions
+Customer & Product Analysis
+KPI Indicators
+✅ Tasks Completed
+
+✔ Used date functions to manage time data
+✔ Used FILTER to extract values
+✔ Highlighted KPIs using Conditional Formatting
+✔ Used INDEX + MATCH for dynamic search
+✔ Created timestamp using NOW()
+✔ Performed What-If Analysis
+✔ Applied Data Analysis / Regression
+✔ Found top customers using formulas
+✔ Created Pivot Tables for summary
+✔ Created Bar, Line, Pie charts
+✔ Built Dashboard with KPIs
+✔ Generated final insights report
+
+📊 Dashboard Includes
+Total Revenue
+Top Customers
+Most Sold Products
+Regional Sales
+Monthly Trends
+KPI Indicators
+🎯 Result
+
+Successfully created a Data Intelligence Dashboard using spreadsheet tools.
+The workbook shows analysis, visualization, and insights from raw data.
+All required formulas are applied in their respective sheets and the workbook works correctly.
+
+This project helps in understanding real-world spreadsheet data analysis.
